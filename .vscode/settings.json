@@ -1,0 +1,10 @@
+{
+  "editor.hover.enabled": false,
+  "workbench.colorTheme": "Andromeda Colorizer",
+  "editor.formatOnSave": true,
+  // "editor.autoIndent": "none",
+  "prettier.disableLanguages": ["javascriptreact"],
+  "[javascript]": {
+    "editor.formatOnSave": true
+  }
+}
