@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/express-js-tutorial">Express JS Tutorial Series</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/express-js-tutorial">Express JS Tutorial Series - Lesson 23</a></h3>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -19,7 +19,34 @@
 
 ## How to run
 
-Different lessons taught in the Youtube Tutorial Series (https://www.youtube.com/playlist?list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM) are organized in separate branches. For example, lesson-1 source code is shared in lesson-1 branch. Just switch to a branch and see corresponding README file instruction.
+Please follow the below instructions to run this project in your machine:
+
+1. Clone this repository
+   ```sh
+   git clone https://github.com/learnwithsumit/express-js-tutorial.git
+   ```
+2. Install dev dependencies
+   ```sh
+   npm install
+   ```
+3. Checkout to branch lesson-23
+   ```sh
+   git checkout lesson-23
+   ```
+4. Install node_modules
+   ```sh
+   npm install # I recommend to use 'yarn'
+   ```
+5. Create a folder named "uploads" in this project root
+   ```sh
+   npm install # I recommend to use 'yarn'
+   ```
+6. Run the app
+   ```sh
+   npm start # I recommend to use 'yarn start'
+   ```
+7. Your app should be available in port 3000
+8. You can send post request to http://localhost:3000/ to upload files as described in youtube video tutorial
 
 <!-- CONTACT -->
 
@@ -27,7 +54,7 @@ Different lessons taught in the Youtube Tutorial Series (https://www.youtube.com
 
 Sumit Saha - [sumit@learnwithsumit.com](mailto:sumit@learnwithsumit.com)
 
-Repository Link: [https://github.com/learnwithsumit/express-js-tutorial](https://github.com/learnwithsumit/express-js-tutorial)
+Project Link: [https://github.com/learnwithsumit/express-js-tutorial](https://github.com/learnwithsumit/express-js-tutorial)
 
 Youtube Channel: [https://youtube.com/LearnwithSumit](https://youtube.com/LearnwithSumit)
 
