@@ -65,7 +65,7 @@ app.post(
   upload.fields([
     {
       name: "avatar",
-      maxCount: 1,
+      maxCount: 2,
     },
     {
       name: "doc",
