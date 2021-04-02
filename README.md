@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/express-js-tutorial">Express JS Tutorial Series - Lesson 23</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/express-js-tutorial">Express JS Tutorial Series - Lesson 27</a></h3>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -29,24 +29,20 @@ Please follow the below instructions to run this project in your machine:
    ```sh
    npm install
    ```
-3. Checkout to branch lesson-23
+3. Checkout to branch lesson-27
    ```sh
-   git checkout lesson-23
+   git checkout lesson-27
    ```
 4. Install node_modules
    ```sh
    npm install # I recommend to use 'yarn'
    ```
-5. Create a folder named "uploads" in this project root
-   ```sh
-   npm install # I recommend to use 'yarn'
-   ```
-6. Run the app
+5. Run the app
    ```sh
    npm start # I recommend to use 'yarn start'
    ```
-7. Your app should be available in port 3000
-8. You can send post request to http://localhost:3000/ to upload files as described in youtube video tutorial
+6. Your app should be available in port 3000
+7. You can send post request to http://localhost:3000/ to upload files as described in youtube video tutorial
 
 <!-- CONTACT -->
 
