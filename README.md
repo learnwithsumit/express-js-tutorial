@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://github.com/learnwithsumit/express-js-tutorial">Express JS Tutorial Series - Lesson 27</a></h3>
+  <h3 align="center"><a href="https://github.com/learnwithsumit/express-js-tutorial">Express JS Tutorial Series - Lesson 28</a></h3>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -29,9 +29,9 @@ Please follow the below instructions to run this project in your machine:
    ```sh
    npm install
    ```
-3. Checkout to branch lesson-27
+3. Checkout to branch lesson-28
    ```sh
-   git checkout lesson-27
+   git checkout lesson-28
    ```
 4. Install node_modules
    ```sh
