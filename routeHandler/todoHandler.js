@@ -13,7 +13,7 @@ router.get("/", checkLogin, (req, res) => {
     .populate("user", "name username -_id")
     .select({
       _id: 0,
-      _v: 0,
+      __v: 0,
       date: 0,
     })
     .limit(2)
