@@ -12,7 +12,7 @@ router.get("/", checkLogin, (req, res) => {
   Todo.find({ status: "active" })
     .select({
       _id: 0,
-      _v: 0,
+      __v: 0,
       date: 0,
     })
     .limit(2)
